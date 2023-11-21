@@ -12,7 +12,6 @@
 
 - git config --global user.email "seu@email.com"
 
-##
 
 ## Primeiro commit
 
